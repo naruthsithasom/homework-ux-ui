@@ -23,14 +23,8 @@ Ans: www.thairath.com
 >>ให้บริการ web streamming แก่บุคคลที่สนใจจะเผื่อแพร่สิ่งที่ตัวเองถนัด ลงให้แอปพลิเคชั่นสตรีมมิ่งเช่น  
 >> + นาย A เป็นโปรเกมเมอร์ได้เคสเกมส์มาริโอ ผู้ชมสามารถรับชมและให้คะแนนตามความต้องการ  
 >> + นางสาว B เป็นช่างแต่งสาวสอนวิธีการแต่งหน้าเจ้าสาว, บัณฑิตที่กำลังรับปริญญา  
-  
-### Preplanning Persona
-|  |  |  
-|:---:|:---:|  
-| us| America|  
-| th | Thailand|  
-| jp | Japanses |  
-
+>> ### Preplanning Persona  
+>> ![preplanning persona-progammer](https://user-images.githubusercontent.com/25115342/100203547-56be0d00-2f35-11eb-99ed-f1b15a261d6d.png)
 ### 4
 ---
 ---
