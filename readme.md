@@ -24,7 +24,8 @@ Ans: www.thairath.co.th
 > ![preplanning persona-progammer](https://user-images.githubusercontent.com/25115342/100203547-56be0d00-2f35-11eb-99ed-f1b15a261d6d.png)  
 ---
 ### 4 เขียน Low-Fidelity Wireframe ลง Post-it หนึ่งแผ่นต่อหนึ่งหน้า (อ่านเพิ่มเติมได้ที่ Link) เขียนชื่อหน้าจอกำกับด้วย
-> 
+> ![homework ux_ui](https://user-images.githubusercontent.com/25115342/100230001-ad3c4300-2f57-11eb-8551-c00ac25dcc2b.png)  
+![homework ux_ui (1)](https://user-images.githubusercontent.com/25115342/100230119-dd83e180-2f57-11eb-98b3-aabe27f97d81.png)
 
 ---
 ---
