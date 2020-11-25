@@ -25,10 +25,11 @@ Ans: www.thairath.com
 >> + นางสาว B เป็นช่างแต่งสาวสอนวิธีการแต่งหน้าเจ้าสาว, บัณฑิตที่กำลังรับปริญญา  
   
 ### Preplanning Persona
-| position 1 center  | position 2 center|  
-|us| America|  
-|th| Thailand|  
-|jp|Japanses|  
+|  |  |  
+|:---:|:---:|  
+| us| America|  
+| th | Thailand|  
+| jp | Japanses |  
 
 ### 4
 ---
