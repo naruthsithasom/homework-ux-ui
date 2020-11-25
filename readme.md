@@ -6,7 +6,7 @@ Homework ux/ui _name: naruth sithasom id:16_
 > Credible: น่าเช่ือถือ  
 > Desirable: น่าใช้  
 > Accessible: เขา้ถึงได้ง่าย  
-Ans: www.thairath.co.th  
+Ans: www.rov.in.th
 ---
 
  ### 2.เล่รเรื่องอะไรก็ได้เกี่ยวกับตัวเอง 3 ข้อ โดย 2 ข้อเป็นเรื่องจริง 1 ข้อ เป็นเรื่องโกหก..
